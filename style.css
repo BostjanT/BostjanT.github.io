@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700,900&subset=latin-ext');
+
+body {
+    background: -webkit-linear-gradient(white, #eaeeef);
+    background: -o-linear-gradient(white, #eaeeef);
+    background: linear-gradient(white, #eaeeef);
+    top: 0;
+    background-image: url(img/bg_tara.jpg);
+    background-size: cover;
+}
+
+
+.starter-template {
+    padding-top: 300px;
+}
+
+.landing-img {
+    top: 0;
+    z-index: -2;
+}
+
+nav {
+    font-size: 20px;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.navbar-dark .navbar-brand {
+    color: #1a0000;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.navbar-dark .navbar-brand:hover {
+    color: #007bff;
+
+}
+
+.navbar-dark .navbar-nav .active > .nav-link,
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link.show,
+.navbar-dark .navbar-nav .show > .nav-link {
+    color: #1a0000;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #1a0000;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #007bff;
+}
+
+.navbar {
+    background: transparent;
+}
