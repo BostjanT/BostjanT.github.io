@@ -17,6 +17,7 @@ a {
     color: #007bff;
     text-decoration: none;
     background-color: transparent;
+    padding: 25px;
 }
 .navbar-dark .navbar-brand {
     color: #1a0000;
@@ -84,4 +85,15 @@ a {
 
 #myModal {
     position: relative;
+}
+
+.popover {
+    padding: 20px;
+    max-width: 500px;
+    margin-top: 270px;
+}
+
+#opis {
+    margin-top: 50px;
+    margin-left: 15px
 }
