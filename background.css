@@ -1,0 +1,16 @@
+body {
+background: linear-gradient(to right, red, yellow);
+text-align: center;
+}
+
+h1 {
+color: black;
+text-transform: uppercase;
+text-align: center;
+}
+
+h3 {
+color: grey;
+text-transform: none;
+text-align: center;
+}
